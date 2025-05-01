@@ -53,4 +53,4 @@ This file includes:
 ## 👋 Credits
 
 Dashboard by Kelly Rasmussen | April 2025  
-Not affiliated with any institution — built for clarity and informed debate.
+Not affiliated with any institution. Built for clarity and informed debate.
