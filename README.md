@@ -38,7 +38,7 @@ A data dashboard exploring Syrian migration, employment, and naturalisation in D
 
 The main Power BI dashboard is included here:
 
-**`SyrianDeepDive.pbix`** — Built in Power BI Desktop (April 2025)  
+**`syriandanes.pbix`** — Built in Power BI Desktop (April 2025)  
 To explore or edit the dashboard, open this file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 
 This file includes:
@@ -53,4 +53,4 @@ This file includes:
 ## 👋 Credits
 
 Dashboard by Kelly Rasmussen | April 2025  
-Not affiliated with any institution — built for clarity and informed debate.
+Not affiliated with any institution. Built for clarity and informed debate.
